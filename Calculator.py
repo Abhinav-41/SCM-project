@@ -37,5 +37,5 @@ elif choice == '4':
 
 else:
     print("Invalid input")
-    
+print("this is the simple calculator")
     
